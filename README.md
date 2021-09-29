@@ -1,0 +1,2 @@
+# CppTexture
+NDKでOpenGLのテクスチャのサンプル
